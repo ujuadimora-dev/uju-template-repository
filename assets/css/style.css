@@ -173,6 +173,14 @@ hr{
    background: url('../image/ethos-center-image.jpg') no-repeat center center;
    height: 100%;
    border-radius: 50%;
+  
+ }
 
-   
+ /*----style for the meeting times.....*/
+ #times{
+   background-image: url( '../image/dublin-city.webp');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   overflow: hidden;
  }
