@@ -255,7 +255,6 @@ footer {
 #fotos {
    clear: both;
    line-height: 0;
-   /*....to remove any horizontal gaps between the fotos--*/
    column-count: 4;
    column-gap: 0;
 
