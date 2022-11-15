@@ -9,7 +9,7 @@
 body {
    font-family: Lato, sans-serif;
    font-size: 300;
-   color: #bb1313;
+   color: #3a3a3a;
 }
 
 h1,
@@ -222,7 +222,8 @@ hr {
    box-sizing: border-box;
 
 }
- #times h2{
+
+#times h2 {
    color: #fafafa;
 }
 
@@ -306,8 +307,6 @@ footer {
 
    }
 
-
-
 }
 
 /* --for medium screen sizes from 950px  wide and down*/
@@ -355,8 +354,8 @@ footer {
 }
 
 /* -- for small screen sizes 800px  wide and down---*/
-@media screen  and (max-width:800px) {
-#fotos {
+@media screen and (max-width:800px) {
+   #fotos {
       column-count: 2;
-   }  
+   }
 }
